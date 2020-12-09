@@ -1,5 +1,6 @@
 {
   "name": "catfriends",
+  "homepage": "http://zilhamdev.github.io/catfriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
